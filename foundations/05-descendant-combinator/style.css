@@ -1,0 +1,9 @@
+div > p {
+    background-color: rgba(244, 244, 102, 1);
+    color: rgba(229, 38, 38);
+}
+
+.container > .text {
+    font-size: 20px;
+    text-align: center;
+}
